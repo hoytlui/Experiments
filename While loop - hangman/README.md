@@ -1,4 +1,4 @@
-#### Skills explored in this hangman project
+#### Tricks explored in this hangman project
 
 - Random choice
   - `chosen_word = random.choice(word_list)`
