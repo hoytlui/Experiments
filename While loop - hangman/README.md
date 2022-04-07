@@ -12,5 +12,5 @@
     end_of_game = True
   ```
 
-- Replace variable with _ in for loop if not referring to it
+- Replace variable with _ in for loop if not calling it later
   - `for _ in range(len(chosen_word)):`
