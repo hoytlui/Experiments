@@ -2,7 +2,7 @@
 
 This repository contains various simple projects that I created to explore different tricks in Python.
 
-[Recursion, global var, while loop - blackjack](https://github.com/hoytlui/Experiments/tree/main/Recursion%2C%20global%20var%2C%20%20while%20loop%20-%20blackjack)
+[Recursion, global var - blackjack](https://github.com/hoytlui/Experiments/tree/main/Recursion%2C%20global%20var%20-%20blackjack)
 
 [Recursion - calculator](https://github.com/hoytlui/Experiments/tree/main/Recursion%20-%20calculator)
 
