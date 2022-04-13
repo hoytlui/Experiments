@@ -1,4 +1,4 @@
-#### Tricks explored in the blackjack project
+#### Tricks explored in the coffee machine project
 
 - Global variable
   - Add global inside a function
