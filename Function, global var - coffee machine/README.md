@@ -1,7 +1,7 @@
 #### Tricks explored in the coffee machine project
 
 - Global variable
-  - Add global inside a function
+  - Call the variable with the key word `global` inside a function for adjustment
   ```
   profit = 0
   .
