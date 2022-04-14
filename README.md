@@ -14,3 +14,5 @@ This repository contains various simple projects that I created to explore diffe
 
 [Function, global var - coffee machine](https://github.com/hoytlui/Experiments/tree/main/Function%2C%20global%20var%20-%20coffee%20machine)
 
+[Class - quiz game](https://github.com/hoytlui/Experiments/tree/main/Class%20-%20quiz%20game)
+
