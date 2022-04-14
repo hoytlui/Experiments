@@ -11,3 +11,6 @@ This repository contains various simple projects that I created to explore diffe
 [Global var - guess a number](https://github.com/hoytlui/Experiments/tree/main/Global%20var%20-%20guess%20a%20number)
 
 [Recursion, global var - blackjack](https://github.com/hoytlui/Experiments/tree/main/Recursion%2C%20global%20var%20-%20blackjack)
+
+[Function, global var - coffee machine](https://github.com/hoytlui/Experiments/tree/main/Function%2C%20global%20var%20-%20coffee%20machine)
+
