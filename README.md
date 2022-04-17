@@ -12,4 +12,4 @@ This repository contains simple projects built to explore different tricks in Py
   - [Class - quiz game](https://github.com/hoytlui/Experiments/tree/main/Class%20-%20quiz%20game)
 - GUI
   - [GUI - spot painting](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20spot%20painting)
-  - [GUI - turtle racing](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20turtle%20racing)
+  - [Instance - turtle racing](https://github.com/hoytlui/Experiments/tree/main/Instance%20-%20turtle%20racing)
