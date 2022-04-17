@@ -4,6 +4,18 @@
 
 `You win. Turtle 1 is the winner!`
 
+- Instance
+  - Different instances have different states
+  ```
+  turtle_list = []
+  for i in range(num_turtle):
+      new_turtle = Turtle(shape='turtle')
+      new_turtle.color(color_list[i])
+      new_turtle.penup()
+      new_turtle.goto(x=-230, y=y_pos[i])
+      turtle_list.append(new_turtle)
+    ```
+
 - Screen
   - Set up screen and get prompt from user
   ```
