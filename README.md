@@ -13,3 +13,5 @@ This repository contains simple projects built to explore different tricks in Py
 - GUI
   - [GUI - spot painting](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20spot%20painting)
   - [Instance - turtle racing](https://github.com/hoytlui/Experiments/tree/main/Instance%20-%20turtle%20racing)
+  - [Inheritance - snake](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20snake)
+  - [Inheritance - PONG](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20pong)
