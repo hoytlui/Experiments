@@ -1,6 +1,6 @@
 #### Tricks explored in the turtle racing project
 
-![image](https://user-images.githubusercontent.com/36130927/163698603-da79a9ef-9d95-4dbe-b15f-ae26f5d9ed89.png)
+![image](https://github.com/hoytlui/Experiments/blob/main/Instance%20-%20turtle%20racing/image.png)
 
 `You win. Turtle 1 is the winner!`
 
