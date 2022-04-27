@@ -16,3 +16,5 @@ This repository contains simple projects built to explore different tricks in Py
   - [Inheritance - snake](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20snake)
   - [Inheritance - PONG](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20pong)
   - [Inheritance - bullet dodge](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20bullet%20dodge)
+- File I/O
+  - [With open - email automation](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20automation)
