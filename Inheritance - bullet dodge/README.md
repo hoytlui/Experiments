@@ -1,6 +1,6 @@
-#### Tricks explored in the bullet dodge project
-
 <img src="https://github.com/hoytlui/Experiments/blob/main/Inheritance%20-%20bullet%20dodge/image.png">
+
+#### Notes:
 
 - Create and move lots of elements
   - Define list
