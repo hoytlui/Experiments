@@ -1,4 +1,4 @@
-#### Tricks explored in the coffee machine project
+#### Notes:
 
 - Global variable
   - Call the variable with the key word `global` inside a function for adjustment
