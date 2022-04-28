@@ -1,4 +1,4 @@
-#### Tricks explored in the blackjack project
+#### Notes:
 
 - Global variable
   - There's no explicit way to define a global variable, use CAPITAL LETTER to represent global variables
