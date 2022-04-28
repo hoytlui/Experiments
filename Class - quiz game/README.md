@@ -1,4 +1,4 @@
-#### Tricks explored in the quiz game project
+#### Notes:
 
 - Call the attributes outside the class
   ```
