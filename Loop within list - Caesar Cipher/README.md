@@ -1,4 +1,4 @@
-#### Tricks explored in this Caesar Cipher encryption project
+#### Notes:
 
 - Simply use * -1 to define left and right directions
   - `shift *= -1`
