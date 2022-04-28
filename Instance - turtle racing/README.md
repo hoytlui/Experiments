@@ -1,8 +1,8 @@
-#### Notes:
-
 ![image](https://github.com/hoytlui/Experiments/blob/main/Instance%20-%20turtle%20racing/image.png)
 
 `You win. Turtle 1 is the winner!`
+
+#### Notes:
 
 - Instance
   - Different instances have different states
