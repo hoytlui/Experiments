@@ -1,4 +1,4 @@
-#### Tricks explored in the blackjack project
+#### Notes:
 
 - Recursion
   ```
