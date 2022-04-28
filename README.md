@@ -10,12 +10,16 @@ This repository contains simple projects built to explore different tricks in Py
   - [Recursion, global var - blackjack](https://github.com/hoytlui/Experiments/tree/main/Recursion%2C%20global%20var%20-%20blackjack)
   - [Function, global var - coffee machine](https://github.com/hoytlui/Experiments/tree/main/Function%2C%20global%20var%20-%20coffee%20machine)
   - [List & dict comprehension - NATO alphabet](https://github.com/hoytlui/Experiments/tree/main/List%20%26%20dict%20comprehension%20-%20NATO%20alphabet)
+
+- OOP
   - [Class - quiz game](https://github.com/hoytlui/Experiments/tree/main/Class%20-%20quiz%20game)
-- GUI
-  - [GUI - spot painting](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20spot%20painting)
   - [Instance - turtle racing](https://github.com/hoytlui/Experiments/tree/main/Instance%20-%20turtle%20racing)
   - [Inheritance - snake](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20snake)
   - [Inheritance - PONG](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20pong)
   - [Inheritance - bullet dodge](https://github.com/hoytlui/Experiments/tree/main/Inheritance%20-%20bullet%20dodge)
+
+- GUI
+  - [GUI - spot painting](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20spot%20painting)
+
 - File I/O
   - [With open - email automation](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20automation)
