@@ -1,4 +1,4 @@
-#### Tricks explored in the turtle racing project
+#### Notes:
 
 ![image](https://github.com/hoytlui/Experiments/blob/main/Instance%20-%20turtle%20racing/image.png)
 
