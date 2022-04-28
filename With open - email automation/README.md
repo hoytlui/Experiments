@@ -1,4 +1,4 @@
-#### Tricks explored in the email autmoation project
+#### Notes:
 
 - Check current working directory
   - `print(os.getcwd())`
