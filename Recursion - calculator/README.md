@@ -1,4 +1,4 @@
-#### Tricks explored in this calculator project
+#### Notes:
 
 - Basic recursion
   ```
