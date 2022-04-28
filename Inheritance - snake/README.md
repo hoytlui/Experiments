@@ -1,6 +1,6 @@
-#### Tricks explored in the snake game
-
 <img src="https://github.com/hoytlui/Experiments/blob/main/Inheritance%20-%20snake/image.png" width="300" height="300">
+
+#### Notes:
 
 - Initialize super class `Turtle`
   ```
