@@ -20,6 +20,7 @@ This repository contains simple projects built to explore different tricks in Py
 
 - GUI
   - [GUI - spot painting](https://github.com/hoytlui/Experiments/tree/main/GUI%20-%20spot%20painting)
+  - [Tkinter - Pomodoro](https://github.com/hoytlui/Experiments/tree/main/Tkinter%20-%20Pomodoro)
 
 - File I/O
   - [With open - email automation](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20automation)
