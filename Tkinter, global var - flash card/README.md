@@ -1,3 +1,6 @@
+<img src="https://github.com/hoytlui/Experiments/blob/main/Tkinter%2C%20global%20var%20-%20flash%20card/images/idiom.png" width="400"><img src="https://github.com/hoytlui/Experiments/blob/main/Tkinter%2C%20global%20var%20-%20flash%20card/images/meaning.png" width="400">
+
+
 #### Notes:
 
 
