@@ -24,5 +24,5 @@ This repository contains simple projects built to explore different tricks in Py
   - [Tkinter - Pomodoro timer](https://github.com/hoytlui/Experiments/tree/main/Tkinter%20-%20Pomodoro%20timer)
   - [Tkinter, global var - flash card](https://github.com/hoytlui/Experiments/tree/main/Tkinter%2C%20global%20var%20-%20flash%20card)
 
-- File I/O
-  - [With open - email automation](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20automation)
+- Scripting
+  - [With open - email drafting](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20drafting)
