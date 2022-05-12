@@ -26,3 +26,4 @@ This repository contains simple projects built to explore different tricks in Py
 
 - Scripting
   - [With open - email drafting](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20drafting)
+  - [Smtp - bulk email sending](https://github.com/hoytlui/Experiments/tree/main/Smtp%20-%20bulk%20email%20sending)
