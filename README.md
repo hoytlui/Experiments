@@ -27,6 +27,7 @@ This repository contains simple projects built to explore different tricks in Py
 - Scripting
   - [With open - email drafting](https://github.com/hoytlui/Experiments/tree/main/With%20open%20-%20email%20drafting)
   - [Smtp - bulk email sending](https://github.com/hoytlui/Experiments/tree/main/Smtp%20-%20bulk%20email%20sending)
+  - [Selenium - Amazon price tracker](https://github.com/hoytlui/Experiments/tree/main/Selenium%20-%20Amazon%20price%20tracker)
 
 - Web
   - [API, HTML - stock news scan](https://github.com/hoytlui/Experiments/tree/main/API%2C%20HTML%20-%20stock%20news%20scan)
