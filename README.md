@@ -12,6 +12,7 @@ This repository contains simple projects built to explore different tricks in Py
   - [List & dict comprehension, exception handling - NATO alphabet](https://github.com/hoytlui/Experiments/tree/main/List%20%26%20dict%20comprehension%2C%20exception%20handling%20-%20NATO%20alphabet)
   - [Json, exception handling - password manager](https://github.com/hoytlui/Experiments/tree/main/Json%2C%20exception%20handling%20-%20password%20manager)
   - [Decorator - function timer](https://github.com/hoytlui/Experiments/tree/main/Decorator%20-%20function%20timer)
+  - [Decorator, args, kwargs - blog post login](https://github.com/hoytlui/Experiments/tree/main/Decorator%2C%20args%2C%20kwargs%20-%20blog%20post%20login)
 
 - OOP
   - [Class - quiz game](https://github.com/hoytlui/Experiments/tree/main/Class%20-%20quiz%20game)
