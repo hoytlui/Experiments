@@ -36,3 +36,6 @@ This repository contains simple projects built to explore different tricks in Py
   - [HTML, CSS - personal site](https://github.com/hoytlui/Experiments/tree/main/HTML%2C%20CSS%20-%20personal%20site)
   - [Web scraping, BeautifulSoup - 100 greatest movies](https://github.com/hoytlui/Experiments/tree/main/Web%20scraping%2C%20BeautifulSoup%20-%20100%20greatest%20movies)
   - [Web scraping, regex - 100 greatest movies](https://github.com/hoytlui/Experiments/tree/main/Web%20scraping%2C%20regex%20-%20100%20greatest%20movies)
+
+- Data science
+  - [Data exploration - college major vs salary](https://github.com/hoytlui/Experiments/tree/main/Data%20exploration%20-%20college%20major%20vs%20salary)
