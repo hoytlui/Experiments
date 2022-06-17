@@ -40,3 +40,4 @@ This repository contains simple projects built to explore different tricks in Py
 - Data science
   - [Data exploration - college major vs salary](https://github.com/hoytlui/Experiments/tree/main/Data%20exploration%20-%20college%20major%20vs%20salary)
   - [Data visualization - most popular languages](https://github.com/hoytlui/Experiments/tree/main/Data%20visualization%20-%20most%20popular%20languages)
+  - [Data visualization, merging data, relational database - LEGO sets](https://github.com/hoytlui/Experiments/tree/main/Data%20visualization%2C%20merging%20data%2C%20relational%20database%20-%20LEGO%20sets)
